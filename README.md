@@ -9,7 +9,8 @@ Welcome! I'm Emmet, a software engineer based in Ireland. I'm here to connect wi
 *   🌍  I'm based in Limerick
 *   🖥️  See my portfolio at [Website](http://emmetdelaney.com)
 *   ✉️  You can contact me at [emmetdel@gmail.com](mailto:emmetdel@gmail.com)
-*   🤝  I'm open to collaborating on anything that's interesting and meaningfully helps people!<a href="https://www.x.com/emmetdel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/emmetdel logo=twitter"/></a>
+*   🤝  I'm open to collaborating on anything that's interesting and meaningfully helps people!
+<a href="https://www.x.com/emmetdel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/emmetdel logo=twitter"/></a>
 
 ### Skills
 
@@ -42,7 +43,9 @@ Welcome! I'm Emmet, a software engineer based in Ireland. I'm here to connect wi
     </picture>
   </a>
 </p>
+
 ### Support Me
+
 <ul style="list-style-type: none; margin: 0;">
   <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/emmetdelaney"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 </ul>
