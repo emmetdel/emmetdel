@@ -1,12 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmet Delaney
-=====================================================================================================================================
+# Emmet Delaney
 
-Software Developer & Writer
----------------------------
+Software engineer in Limerick, Ireland, with 10+ years building business software.
 
-Welcome! I'm Emmet, a software engineer based in Ireland. I'm here to connect with fellow tech enthusiasts, share my experiences, and build products that solve real problems. When I'm not coding, you'll find me exploring new ideas, writing helpful tutorials, or spending time with my family.
+I work on AI products, TypeScript and AWS systems, and dependable self-hosted infrastructure. I also run [Delaney Works](https://delaneyworks.ie), where I build focused workflow software for small Irish construction, engineering, maintenance and field-service firms.
 
-*   🌍  I'm based in Limerick
-*   🖥️  See my portfolio at [Website](http://emmetdelaney.com)
-*   ✉️  You can contact me at [emmetdel@gmail.com](mailto:emmetdel@gmail.com)
-*   🤝  I'm open to collaborating on anything that's interesting and meaningfully helps people!
+## What I build
+
+- AI-powered product features and agent systems
+- Reliable TypeScript, AWS, Cloudflare and NixOS infrastructure
+- Small, fixed-scope tools that replace repeated site-to-office paperwork
+
+For business enquiries, visit [Delaney Works](https://delaneyworks.ie) or connect with me on [LinkedIn](https://www.linkedin.com/in/emmetdelaney).
